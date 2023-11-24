@@ -5,7 +5,7 @@ metadata:
   # This namespace is special and auto-wired to deploy to the local cluster
   namespace: fleet-local
 spec:
-  repo: https://github.com/vfarcic/rancher-fleet-demo
+  repo: https://github.com/sujith-es/rancher-fleet-demo
   branch: main
   targetNamespace: production
   paths:
