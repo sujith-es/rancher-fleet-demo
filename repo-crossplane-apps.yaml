@@ -3,7 +3,7 @@ kind: GitRepo
 metadata:
   name: devops-toolkit
 spec:
-  repo: https://github.com/vfarcic/rancher-fleet-demo
+  repo: https://github.com/sujith-es/rancher-fleet-demo
   branch: main
   targetNamespace: default
   paths:
