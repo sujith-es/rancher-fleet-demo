@@ -9,4 +9,6 @@ spec:
   branch: main
   targetNamespace: production
   paths:
-  - kustomize/overlays/production
+  # - kustomize/overlays/production
+    - kustomize/base
+
